@@ -1,0 +1,7 @@
+.region-primary-menu ul.menu > li:nth-child(3) {
+  flex-grow: 2;
+}
+
+.region-primary-menu ul.menu > li.muni-menu-item:last-child {
+  padding-right: 0;
+}

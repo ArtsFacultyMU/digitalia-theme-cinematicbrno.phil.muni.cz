@@ -1,0 +1,15 @@
+{% if item.first matches '/^\\d+$/' %}
+  {% if item.first %}
+    <div>{{ item.first }}<div>
+  {% endif %}
+  {% if item.second %}
+    <div>({{ item.second }})</div>
+  {% endif %}
+{% else %}
+  {% if item.first|lower ends with " d'" %}
+    <div>{{ item.first }}{{ item.second }}<div>
+  {% else %}
+    <div>{{ item.first }} {{ item.second }}<div>
+  {% endif %}
+{% endif %}
+
