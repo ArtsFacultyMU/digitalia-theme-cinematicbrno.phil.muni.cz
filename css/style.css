@@ -5,3 +5,12 @@
 .region-primary-menu ul.menu > li.muni-menu-item:last-child {
   padding-right: 0;
 }
+
+div.region-sidebar-first form div.form-item {
+  width: 14.4rem;
+}
+
+
+div.region-sidebar-first form div.form-item input {
+  background-color: white; 
+}
