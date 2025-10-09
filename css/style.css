@@ -18,3 +18,8 @@ div.region-sidebar-first form div.form-item input {
 #views-exposed-form-fb-map-page-1 {
   clear: both;
 }
+
+#views-exposed-form-fb-map-page-1 > div.form--inline {
+  display: flex;
+  justify-content: center;
+}
