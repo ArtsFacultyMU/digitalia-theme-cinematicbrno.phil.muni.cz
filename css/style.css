@@ -14,3 +14,7 @@ div.region-sidebar-first form div.form-item {
 div.region-sidebar-first form div.form-item input {
   background-color: white; 
 }
+
+#views-exposed-form-fb-map-page-1 {
+  clear: both;
+}
