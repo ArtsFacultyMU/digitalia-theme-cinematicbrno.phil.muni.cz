@@ -23,3 +23,44 @@ div.region-sidebar-first form div.form-item input {
   display: flex;
   justify-content: center;
 }
+
+div.block-facet--glossaryaz ul {
+  display: flex;
+}
+
+
+div.block-facet--glossaryaz ul > li:nth-child(1) { order: 1; }
+div.block-facet--glossaryaz ul > li:nth-child(2) { order: 2; }
+div.block-facet--glossaryaz ul > li:nth-child(3) { order: 3; }
+div.block-facet--glossaryaz ul > li:nth-child(4) { order: 4; }
+div.block-facet--glossaryaz ul > li:nth-child(5) { order: 10; }
+div.block-facet--glossaryaz ul > li:nth-child(6) { order: 5; }
+div.block-facet--glossaryaz ul > li:nth-child(7) { order: 6; }
+div.block-facet--glossaryaz ul > li:nth-child(8) { order: 7; }
+div.block-facet--glossaryaz ul > li:nth-child(9) { order: 8; }
+div.block-facet--glossaryaz ul > li:nth-child(10) { order: 9; }
+div.block-facet--glossaryaz ul > li:nth-child(11) { order: 11; }
+div.block-facet--glossaryaz ul > li:nth-child(12) { order: 12; }
+div.block-facet--glossaryaz ul > li:nth-child(13) { order: 13; }
+div.block-facet--glossaryaz ul > li:nth-child(14) { order: 14; }
+div.block-facet--glossaryaz ul > li:nth-child(15) { order: 15; }
+div.block-facet--glossaryaz ul > li:nth-child(16) { order: 16; }
+div.block-facet--glossaryaz ul > li:nth-child(17) { order: 17; }
+div.block-facet--glossaryaz ul > li:nth-child(18) { order: 18; }
+div.block-facet--glossaryaz ul > li:nth-child(19) { order: 19; }
+div.block-facet--glossaryaz ul > li:nth-child(20) { order: 20; }
+div.block-facet--glossaryaz ul > li:nth-child(21) { order: 21; }
+div.block-facet--glossaryaz ul > li:nth-child(22) { order: 22; }
+div.block-facet--glossaryaz ul > li:nth-child(23) { order: 23; }
+div.block-facet--glossaryaz ul > li:nth-child(24) { order: 24; }
+div.block-facet--glossaryaz ul > li:nth-child(25) { order: 25; }
+div.block-facet--glossaryaz ul > li:nth-child(26) { order: 26; }
+div.block-facet--glossaryaz ul > li:nth-child(27) { order: 27; }
+div.block-facet--glossaryaz ul > li:nth-child(28) { order: 28; }
+div.block-facet--glossaryaz ul > li:nth-child(29) { order: 29; }
+div.block-facet--glossaryaz ul > li:nth-child(30) { order: 30; }
+div.block-facet--glossaryaz ul > li:nth-child(31) { order: 31; }
+div.block-facet--glossaryaz ul > li:nth-child(32) { order: 32; }
+div.block-facet--glossaryaz ul > li:nth-child(33) { order: 33; }
+div.block-facet--glossaryaz ul > li:nth-child(34) { order: 34; }
+div.block-facet--glossaryaz ul > li:nth-child(35) { order: 35; }
